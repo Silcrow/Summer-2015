@@ -1,2 +1,2 @@
-# SUmmer2015
+# Summer2015
 Code I wrote on July 2015
